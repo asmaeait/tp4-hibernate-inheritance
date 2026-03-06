@@ -61,5 +61,5 @@ Le projet utilise les dépendances standards pour JPA, Hibernate Core, et le dri
 Voici les captures d'écran illustrant le bon fonctionnement des tests et la structure de la base de données :
 On peut voir dans la console les logs Hibernate générant les schémas et les résultats des requêtes polymorphiques.
 
-![interfaces]
+![interfaces](interfaces/1.png)
  
