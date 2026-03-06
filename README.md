@@ -82,5 +82,5 @@ On peut voir dans la console les logs Hibernate générant les schémas et les r
 <img width="922" height="288" alt="11" src="https://github.com/user-attachments/assets/c32861da-8bde-462d-8ad9-a0fcbbcddca7" />
 
  ---
-## ✍️ Auteur
+##  Auteur
 **[Asma] [Ait Elmahjoub]**
